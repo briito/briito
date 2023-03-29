@@ -9,16 +9,7 @@
 
 ## Best Technologies
 
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=75><br><sub></sub>
+| :---: | :---: | :---: |  :---: |
 
-<div> 
-   
-   
-   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-       
-   <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-      
-</div>
-
-
-  
-
+ 
