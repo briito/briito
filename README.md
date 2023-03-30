@@ -5,10 +5,10 @@
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briito&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg) -->
 
-<!-- 
-![Snake animation](https://github.com/briito/briito/blob/output/github-contribution-grid-snake.svg) -->
+
+![Snake animation](https://github.com/briito/briito/blob/output/github-contribution-grid-snake.svg)
 
 ## Favorite Technologies
 
