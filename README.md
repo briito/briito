@@ -1,4 +1,4 @@
-## Hello, I'm Onezimo 👋
+## Hello, I'm Onesimo 👋
 
 <div>
 <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
