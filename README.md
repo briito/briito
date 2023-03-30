@@ -5,7 +5,7 @@
 <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briito&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-## All commit's
+## My commits
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
