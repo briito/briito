@@ -6,6 +6,7 @@
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 ![Snake animation](https://github.com/briito/briito/blob/output/github-contribution-grid-snake.svg)
 
 ## Favorite Technologies
