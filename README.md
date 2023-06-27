@@ -11,8 +11,8 @@
 
 ## Favorite Technologies
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=75><br><sub></sub>
-| :---: | :---: | :---: |  :---: |  :---: |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=75><br><sub></sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=75><br><sub></sub>
+| :---: | :---: | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
 
 ## Contacts
 
