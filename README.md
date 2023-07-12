@@ -1,13 +1,13 @@
 ## Hello, I'm Onesimo 👋
 
-<div>
-<img  height="165em" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briito&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div display="flex">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=radical" />
+
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briito&show_icons=true&theme=radical" />
+ 
 </div>
 
 ## My commits
-
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 ## Favorite Technologies
 
