@@ -1,7 +1,7 @@
 ## Hello, I'm Onesimo 👋
 
 <div display="flex">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=radical" />
+ <img height=200 width=600 align="center" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=radical" />
 
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briito&show_icons=true&theme=radical" />
  
