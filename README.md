@@ -1,11 +1,8 @@
 ## Hello, I'm Onesimo 👋
 
-<div>
- <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=radical" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briito)](https://github.com/anuraghazra/github-readme-stats)
 
- <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briito&show_icons=true&theme=radical" />
- 
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=transparent)
 
 ## Favorite Technologies
 
