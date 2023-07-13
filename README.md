@@ -1,7 +1,5 @@
 ## Hello, I'm Onesimo 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briito)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=transparent)
 
 ## Favorite Technologies
