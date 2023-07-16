@@ -9,8 +9,8 @@
 
 ## Favorite Technologies
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=75><br><sub>Python</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width=75><br><sub>PostgreSQL</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width=75><br><sub>MongoDB</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=75><br><sub>Git</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=75><br><sub>Linux</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width=75><br><sub>AWS</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=75><br><sub>React</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=75><br><sub>Node</sub>
-| :---: | :---: | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=90><br><sub>Python</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width=90><br><sub>PostgreSQL</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width=90><br><sub>MongoDB</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=90><br><sub>Git</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=90><br><sub>Linux</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width=90><br><sub>AWS</sub>
+| :---: | :---: | :---: |  :---: |  :---: |  :---: |
 
 ## Contacts
 
