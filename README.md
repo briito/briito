@@ -1,4 +1,4 @@
-## Hi, I'm Onesimo 👋
+## Hi, i'm Onesimo 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=transparent&card_width=180" />
