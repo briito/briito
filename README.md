@@ -1,10 +1,10 @@
 ## Hi, i'm Onesimo 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=briito&show_icons=true&theme=radical&card_width=180" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=briito&theme=transparent&show_icons=true&card_width=180" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briito&layout=compact&theme=radical&langs_count=8&card_width=180" />
+   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briito&layout=compact&theme=transparent&card_width=180" />
 </a>
 
 ## Favorite Technologies
