@@ -10,8 +10,8 @@
 
 ## Favorite Technologies
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=100><br><sub>JavaScript</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=100><br><sub>TypeScript</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=100><br><sub>ReactJS</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width=100><br><sub>PostgreSQL</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=100><br><sub>Git</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=100><br><sub>Linux</sub>|
-| :---: | :---: | :---: |  :---: |  :---: |  :---: |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=100><br><sub>JavaScript</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=100><br><sub>TypeScript</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=100><br><sub>ReactJS</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width=100><br><sub>PostgreSQL</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=100><br><sub>Git</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=100><br><sub>Linux</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=100><br><sub>NodeJS</sub>
+| :---: | :---: | :---: |  :---: |  :---: |  :---: | :---: |
 
 ## Contacts
 
