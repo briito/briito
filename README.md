@@ -10,31 +10,9 @@
 
 ## Favorite Technologies
 
-<div display="flex">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" style="display: block; margin: 0 auto;" />
-      <div style="margin-top: 5px;">Git</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" style="display: block; margin: 0 auto;" />
-      <div style="margin-top: 5px;">Kubernetes</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="display: block; margin: 0 auto;" />
-      <div style="margin-top: 5px;">Docker</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=c" alt="C" style="display: block; margin: 0 auto;" />
-      <div style="margin-top: 5px;">C</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=vim" alt="Vim" style="display: block; margin: 0 auto;" />
-      <div style="margin-top: 5px;">Vim</div>
-    </div>
-</div>
-
-
-
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=100><br><sub>Python</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width=100><br><sub>Docker</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width=100><br><sub>Airflow</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width=100><br><sub>Spark</sub>|<img src="https://skillicons.dev/icons?i=aws" style="width: 80px;"><br><sub>AWS</sub>|<img src="https://skillicons.dev/icons?i=git" style="width: 80px;"><br><sub>GIT</sub>|<img src="https://skillicons.dev/icons?i=linux" style="width: 80px;"><br><sub>LINUX</sub>
+| :---: | :---: | :---: |  :---: |  :---: |  :---: | :---: |
+ 
 ## Contacts
 
 <div>
