@@ -10,7 +10,7 @@
 
 ## Favorite Technologies
 
-|<img src="https://skillicons.dev/icons?i=py" style="width: 5rem;"><br><sub>PYTHON</sub>|<img src="https://skillicons.dev/icons?i=docker" style="width: 5rem;"><br><sub>DOCKER</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" style="width: 5rem;"><br><sub>AIRFLOW</sub>|<img src="databricks.png" style="width: 5rem;"><br><sub>DATABRICKS</sub>|<img src="spark.svg" style="width: 5rem;"><br><sub>SPARK</sub>|<img src="git.png" style="width: 5rem;"><br><sub>GIT</sub>|<img src="https://skillicons.dev/icons?i=linux" style="width: 5rem;"><br><sub>LINUX</sub>
+|<img src="https://skillicons.dev/icons?i=py" style="width: 5rem;"><br><sub>PYTHON</sub>|<img src="https://skillicons.dev/icons?i=docker" style="width: 5rem;"><br><sub>DOCKER</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" style="width: 5rem;"><br><sub>AIRFLOW</sub>|<img src="databricks.png" style="width: 5rem;"><br><sub>DATABRICKS</sub>|<img src="spark.svg" style="width: 5rem;"><br><sub>SPARK</sub>|<img src="git.png" style="width: 5rem;min-width:100px;"><br><sub>GIT</sub>|<img src="https://skillicons.dev/icons?i=linux" style="width: 5rem;"><br><sub>LINUX</sub>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  
 ## Contacts
