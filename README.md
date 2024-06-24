@@ -10,8 +10,8 @@
 
 ## Favorite Technologies
 
-|<img src="python.svg" style="width: 5rem;"><br><sub>PYTHON</sub>|<img src="docker.svg" style="width: 5rem;"><br><sub>DOCKER</sub>|<img src="airflow.svg" style="width: 5rem;"><br><sub>AIRFLOW</sub>|<img src="databricks.svg" style="width: 4rem;"><br><sub>Databricks</sub>|<img src="spark.svg" style="width: 5rem;"><br><sub>PYSPARK</sub>|<img src="git.svg" style="width: 5rem;"><br><sub>GITFLOW</sub>
-| :---: | :---: | :---: | :---: | :---: | :---: |
+|<img src="python.svg" style="width: 5rem;"><br><sub>PYTHON</sub>|<img src="docker.svg" style="width: 5rem;"><br><sub>DOCKER</sub>|<img src="airflow.svg" style="width: 5rem;"><br><sub>AIRFLOW</sub>|<img src="databricks.svg" style="width: 4rem;"><br><sub>Databricks</sub>|<img src="spark.svg" style="width: 5rem;"><br><sub>PYSPARK</sub>|<img src="git.svg" style="width: 5rem;"><br><sub>GITFLOW</sub>|<img src="linux.svg" style="width: 5rem;"><br><sub>UBUNTU</sub>
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  
 ## Contacts
 
