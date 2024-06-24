@@ -10,7 +10,7 @@
 
 ## Favorite Technologies
 
-|<img src="https://skillicons.dev/icons?i=py" style="width: 5rem;"><br><sub>PYTHON</sub>|<img src="https://skillicons.dev/icons?i=docker" style="width: 5rem;"><br><sub>DOCKER</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" style="width: 5rem;"><br><sub>AIRFLOW</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" style="width: 5rem;"><br><sub>SPARK</sub>|<img src="https://skillicons.dev/icons?i=aws" style="width: 5rem;"><br><sub>AWS</sub>|<img src="https://skillicons.dev/icons?i=git" style="width: 5rem;"><br><sub>GIT</sub>|<img src="https://skillicons.dev/icons?i=linux" style="width: 5rem;"><br><sub>LINUX</sub>
+|<img src="https://skillicons.dev/icons?i=py" style="min-width: 5rem;"><br><sub>PYTHON</sub>|<img src="https://skillicons.dev/icons?i=docker" style="min-width: 5rem;"><br><sub>DOCKER</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" style="min-width: 5rem;"><br><sub>AIRFLOW</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" style="min-width: 5rem;"><br><sub>SPARK</sub>|<img src="https://skillicons.dev/icons?i=aws" style="min-width: 5rem;"><br><sub>AWS</sub>|<img src="https://skillicons.dev/icons?i=git" style="min-width: 5rem;"><br><sub>GIT</sub>|<img src="https://skillicons.dev/icons?i=linux" style="min-width: 5rem;"><br><sub>LINUX</sub>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  
 ## Contacts
