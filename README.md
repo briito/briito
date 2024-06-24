@@ -10,7 +10,7 @@
 
 ## Favorite Technologies
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width: 80px;"><br><sub>Python</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="width: 80px;"><br><sub>Docker</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" style="width: 80px;"><br><sub>Airflow</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" style="width: 80px;"><br><sub>Spark</sub>|<img src="https://skillicons.dev/icons?i=aws" style="width: 80px;"><br><sub>AWS</sub>|<img src="https://skillicons.dev/icons?i=git" style="width: 80px;"><br><sub>GIT</sub>|<img src="https://skillicons.dev/icons?i=linux" style="width: 80px;"><br><sub>LINUX</sub>
+|<img src="https://skillicons.dev/icons?i=py" style="width: 80px;"><br><sub>PYTHON</sub>|<img src="https://skillicons.dev/icons?i=docker" style="width: 80px;"><br><sub>DOCKER</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" style="width: 80px;"><br><sub>AIRFLOW</sub>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" style="width: 80px;"><br><sub>SPARK</sub>|<img src="https://skillicons.dev/icons?i=aws" style="width: 80px;"><br><sub>AWS</sub>|<img src="https://skillicons.dev/icons?i=git" style="width: 80px;"><br><sub>GIT</sub>|<img src="https://skillicons.dev/icons?i=linux" style="width: 80px;"><br><sub>LINUX</sub>
 | :---: | :---: | :---: |  :---: |  :---: |  :---: | :---: |
  
 ## Contacts
